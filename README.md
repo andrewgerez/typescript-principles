@@ -1,4 +1,8 @@
 <div align="center">
+  <a href="">
+    <img src="src/assets/readme/banner.png" alt="Tractian Challenge Banner">
+  </a>
+  
   <h3 align="center">Typescript Principles 🛡️</h3>
 
   <p align="center">
