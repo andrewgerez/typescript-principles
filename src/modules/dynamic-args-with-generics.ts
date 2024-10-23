@@ -1,7 +1,7 @@
 /**
  * Dynamic function args with generics
  * 
- * Use this function when you want to pass a generic type as an argument to a function.
+ * Use this pattern when you want to pass a generic type as an argument to a function.
  * It's especially useful when you have a function that accepts multiple types of arguments.
  * 
  */
