@@ -1,11 +1,14 @@
 /**
- * When to use a generic
+ * Use generics when:
  * 
- *   - when you don't know what type you will get
- *   - when you have a lot of similar types
- *   - when you have a lot of different types
- *   - when you have a lot of different properties
+ *   - You're not sure what type you'll receive.
+ *   - You're dealing with a large number of similar types.
+ *   - You're working with a variety of different types.
+ *   - You have multiple properties with different types.
  * 
+ * Generics allow you to write flexible and reusable code that can handle different types of data.
+ * They provide type safety and help prevent errors related to type mismathces or unexpected data.
+ *
  */
 
 interface Animal {
