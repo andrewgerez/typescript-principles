@@ -20,6 +20,10 @@ type PropsFrom<T> = T extends React.FC<infer Props>
   ? Props
   : never
 
-const props: PropsFrom<MyOtherComponent> = {
+const props: PropsFrom<typeof MyComponent> = {
+  enabled: true
+}
+
+const props2: PropsFrom<MyOtherComponent> = {
   enabled: true
 }
