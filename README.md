@@ -3,10 +3,10 @@
     <img src="src/assets/readme/banner.png" alt="Tractian Challenge Banner">
   </a>
   
-  <h3 align="center">Typescript Principles 🛡️</h3>
+  <h3 align="center">TypeScript Principles 🛡️</h3>
 
   <p align="center">
-    Repository dedicated to exploration, documentation and tips on Typescript features.
+    Repository dedicated to exploration, documentation and tips on TypeScript features.
   </p>
 </div>
 
@@ -39,7 +39,7 @@ Documentation and tips about the Typescript 🛡️
 
 This project was developed using the following technologies:
 * [![Node][Node.js]][Node-url]
-* [![Typescript][Typescript]][Typescript-url]
+* [![TypeScript][TypeScript]][TypeScript-url]
 
 
 ## Getting Started
@@ -77,8 +77,8 @@ Project Link: [https://github.com/andrewgerez/typescript-principles](https://git
 
 [Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Node-url]: https://nodejs.org/
-[Typescript]: https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white
-[Typescript-url]: https://www.typescriptlang.org
+[TypeScript]: https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
