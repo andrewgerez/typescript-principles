@@ -1,4 +1,7 @@
 /**
+ * @file when-to-use-a-generic.ts
+ * @description This file provides examples and guidelines on when to use generics in TypeScript.
+ * 
  * Use generics when:
  * 
  *   - You're not sure what type you'll receive.
@@ -7,8 +10,7 @@
  *   - You have multiple properties with different types.
  * 
  * Generics allow you to write flexible and reusable code that can handle different types of data.
- * They provide type safety and help prevent errors related to type mismathces or unexpected data.
- *
+ * They provide type safety and help prevent errors related to type mismatches or unexpected data.
  */
 
 interface Animal {
