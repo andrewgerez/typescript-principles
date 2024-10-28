@@ -1,7 +1,9 @@
 /**
- * Improving Object Keys
+ * @file improving-object-keys.ts
+ * @description A utility function to get the keys of an object with TypeScript type safety.
  * 
- * A utility function to get the keys of an object with TypeScript type safety. 
+ * This file demonstrates how to create a type-safe utility function to retrieve the keys of an object.
+ * TypeScript generics are used to ensure that the keys are correctly typed, enhancing code reliability and maintainability.
  */
 
 const myObject = {
