@@ -1,7 +1,9 @@
 /**
- * Conditional React Props Extract
+ * @file conditional-react-props-extract.tsx
+ * @description A utility type for extracting the props of a React component based on a condition.
  * 
- * A utility type for extracting the props of a React component base on a condition.
+ * This file demonstrates how to create a utility type that extracts the props of a React component conditionally.
+ * It supports both functional and class components, ensuring type safety and flexibility.
  */
 
 import React from 'react'
