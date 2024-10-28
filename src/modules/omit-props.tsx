@@ -1,5 +1,6 @@
 /**
- * Omit props
+ * @file omit-props.tsx
+ * @description This file contains a utility function to exclude specific properties from an object.
  * 
  * Use this function when you want to exclude specific properties from an object.
  * It's especially useful in situations where:
