@@ -1,8 +1,10 @@
 /**
- * Funcion Overloads with Compose
+ * @file function-overloads-with-compose.ts
+ * @description This file demonstrates function overloads with a compose utility function.
  * 
- * Enables multiple function signatures with varying argument types,
- * improving type safety and flexibility.
+ * The compose function enables multiple function signatures with varying argument types,
+ * improving type safety and flexibility. It allows for the composition of multiple functions
+ * where the output of one function becomes the input of the next.
  */
 
 function compose<Input, FirstArg>(
