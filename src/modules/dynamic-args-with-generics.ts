@@ -1,9 +1,10 @@
 /**
- * Dynamic function args with generics
+ * @file dynamic-args-with-generics.ts
+ * @description This file demonstrates how to use generics to handle dynamic function arguments.
  * 
  * Use this pattern when you want to pass a generic type as an argument to a function.
  * It's especially useful when you have a function that accepts multiple types of arguments.
- * 
+ * This approach ensures type safety and flexibility, allowing the function to handle different argument structures.
  */
 
 type EventArgs =
